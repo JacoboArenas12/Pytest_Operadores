@@ -24,5 +24,5 @@ TOTAL                40      0   100%
 
 
 Podemos ver como se ha podido probar el 100% del código, esto indica, en gran medida, que el código funciona.
-Si los asserts hubieran sido falsos (funciones que no funcionan), se pudo haber observado esto al notar que los "print" siguientes al accert no pudieron ser probados.
+Si los asserts hubieran sido falsos (funciones de operacion que no funcionan), se pudo haber observado esto al notar que los "print" siguientes al accert no pudieron ser probados.
 Como se pudo probar el 100%, la logica de nuestro codigo funciona correctamente.
