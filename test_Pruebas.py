@@ -21,7 +21,7 @@ def test_multiplicacion():
     assert multiplicacion (2,-3) == -6
     print ("La función multiplicacion trabaja correctamente")
 
-def test_multiplicacion():
+def test_multiplicacion2():
     assert multiplicacion (-5,-5) == 25
     print ("La función multiplicacion trabaja correctamente")
     
